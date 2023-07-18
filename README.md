@@ -47,18 +47,14 @@ My name is Alif Miftakhul Fatah, I'm a person who passionate about technology, I
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="c" width="40" height="40"/> 
   </a>
  
-   <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="c" width="40" height="40"/> 
-  </a>
+  
   <a href="https://nextjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="c" width="40" height="40"/> 
   </a>
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="c" width="40" height="40"/> 
   </a>
-  <a href="https://redis.io/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="c" width="40" height="40"/> 
-  </a>
+ 
  
 
   <a href="https://code.visualstudio.com/" target="_blank"> 
