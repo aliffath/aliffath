@@ -63,3 +63,4 @@ My name is Alif Miftakhul Fatah, I'm a person who passionate about technology, I
  
 </p>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/aliffath/aliffath/output/github-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aliffath/aliffath/output/github-snake.svg#gh-light-mode-only)
